@@ -1,0 +1,150 @@
+.navCont {
+    position: absolute;
+    top: 0;
+    width: 97%;
+}
+.top-button {
+    margin-left: 200px;
+}
+.image1 {
+    width: 100%;
+    height: 100vh;
+    opacity: 0.8;
+}
+.logo {
+    font-weight: bolder;
+}
+
+.fnt-size {
+    font-size: 30px;
+}
+.content{
+position: absolute;
+top: 50vh;
+left: 30vw;
+color: whitesmoke;
+font-weight: bolder;
+}
+.circle {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: solid;
+    border-width: 1px;
+}
+.play {
+    display: flex;
+}
+.play a {
+    text-decoration: none;
+    color: darkcyan;
+    font-size: 20px;
+    cursor: pointer;
+}
+.content2 {
+    display: flex;
+    align-items: center;
+
+}
+
+.card-icon {
+    background-color: rgb(101, 192, 186);
+    width: 80px;
+    height: 80px;
+    display: flex !important;
+    border-radius: 50%;
+}
+
+
+.text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.h1 {
+    font-size: 80px;
+    font-family: Alegreya;
+    margin-top: 150px;
+}
+
+.caro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.fifth {
+    background-color: rgb(101, 192, 186);
+    margin-top: 80px;
+}
+
+.seventh p {
+    font-size: 18px;
+    color: rgb(129, 129, 129);
+    line-height: 40px;
+}
+.seventh h2 {
+    font-size: 35px !important;
+    font-weight: 900 !important;
+}
+
+.sixth .card-img-top {
+    width: 35%;
+    height: 112px;
+    border-radius: 50%;
+}
+
+.seventh .card {
+    text-align: left;
+}
+
+.seventh h3 {
+    font-size: 23px !important;
+    font-family: Zilla Slab;
+    font-weight: bolder !important;
+}
+.seventh-icons {
+    color: rgb(101, 192, 186) !important;
+    margin: 0 !important;
+}
+.seventh-text {
+    color: rgb(129, 129, 129);
+}
+.eigth .row {
+    padding: 100px !important;
+}
+.px-5 {
+    padding-right: 3rem!important;
+    padding-left: 3rem!important;
+}
+.eigth {
+    background: rgb(33, 37, 41);
+}
+.eigth a {
+    color: rgb(181, 179, 179);
+}
+.email {
+    background-color: rgb(57, 70, 83);
+    border-radius: 5px;
+    border: none;
+    padding: 8px;
+    height: 41px;
+}
+.su {
+    color: rgb(155, 154, 154);
+    font-size: 16px;
+}
+.contact-info {
+    color: rgb(155, 154, 154);
+    font-size: 16px;
+}
+.contact-ttl {
+    color: rgb(212, 211, 211);
+    font-size: 17px;
+}
+
+
+

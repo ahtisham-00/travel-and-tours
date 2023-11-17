@@ -1,0 +1,14 @@
+@media screen and (max-width:800px) {
+
+    .image2 img {
+        width: 260px;
+        left: 0;
+    }
+    .info h1 {
+        font-weight: 100;
+        font-size: large;
+    }
+    .info p {
+        font-size: 12px;
+    }
+}
